@@ -2,8 +2,8 @@
     "codice":"AT",
     "descrizione": {
 		"it": "AUSTRIA",
-		"en": "AUSTRIA"
-		},
+		"en": "AUSTRIA",
+		"de": "ÖSTERREICH"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -11,8 +11,8 @@
     "codice":"BE",
     "descrizione": {
 		"it": "BELGIO",
-		"en": "BELGIO"
-		},
+		"en": "BELGIO",
+		"de": "BELGIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -20,8 +20,8 @@
     "codice":"BG",
     "descrizione": {
 		"it": "BULGARIA",
-		"en": "BULGARIA"
-		},
+		"en": "BULGARIA",
+		"de": "BULGARIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -29,8 +29,8 @@
     "codice":"CH",
     "descrizione": {
 		"it": "SVIZZERA",
-		"en": "SVIZZERA"
-		},
+		"en": "SVIZZERA",
+		"de": "SCHWEIZ"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -38,8 +38,8 @@
     "codice":"CY",
     "descrizione": {
 		"it": "CIPRO",
-		"en": "CIPRO"
-		},
+		"en": "CIPRO",
+		"de": "ZYPERN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -47,8 +47,8 @@
     "codice":"CZ",
     "descrizione": {
 		"it": "REPUBBLICA CECA",
-		"en": "REPUBBLICA CECA"
-		},
+		"en": "REPUBBLICA CECA",
+		"de": "TSCHECHIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -56,8 +56,8 @@
     "codice":"DE",
     "descrizione": {
 		"it": "GERMANIA",
-		"en": "GERMANIA"
-		},
+		"en": "GERMANIA",
+		"de": "DEUTSCHLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -65,8 +65,8 @@
     "codice":"DK",
     "descrizione": {
 		"it": "DANIMARCA",
-		"en": "DANIMARCA"
-		},
+		"en": "DANIMARCA",
+		"de": "DÄNEMARK"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -74,8 +74,8 @@
     "codice":"EE",
     "descrizione": {
 		"it": "ESTONIA",
-		"en": "ESTONIA"
-		},
+		"en": "ESTONIA",
+		"de": "ESTLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -83,8 +83,8 @@
     "codice":"ES",
     "descrizione": {
 		"it": "SPAGNA",
-		"en": "SPAGNA"
-		},
+		"en": "SPAGNA",
+		"de": "SPANIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -92,8 +92,8 @@
     "codice":"FI",
     "descrizione": {
 		"it": "FINLANDIA",
-		"en": "FINLANDIA"
-		},
+		"en": "FINLANDIA",
+		"de": "FINNLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -101,8 +101,8 @@
     "codice":"FR",
     "descrizione": {
 		"it": "FRANCIA",
-		"en": "FRANCIA"
-		},
+		"en": "FRANCIA",
+		"de": "FRANKREICH"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -110,8 +110,8 @@
     "codice":"GB",
     "descrizione": {
 		"it": "REGNO UNITO",
-		"en": "REGNO UNITO"
-		},
+		"en": "REGNO UNITO",
+		"de": "GROSSBRITANNIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -119,8 +119,8 @@
     "codice":"GR",
     "descrizione": {
 		"it": "GRECIA",
-		"en": "GRECIA"
-		},
+		"en": "GRECIA",
+		"de": "GRIECHENLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -128,8 +128,8 @@
     "codice":"HR",
     "descrizione": {
 		"it": "CROAZIA",
-		"en": "CROAZIA"
-		},
+		"en": "CROAZIA",
+		"de": "KROATIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -137,8 +137,8 @@
     "codice":"HU",
     "descrizione": {
 		"it": "UNGHERIA",
-		"en": "UNGHERIA"
-		},
+		"en": "UNGHERIA",
+		"de": "UNGARN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -146,8 +146,8 @@
     "codice":"IE",
     "descrizione": {
 		"it": "IRLANDA",
-		"en": "IRLANDA"
-		},
+		"en": "IRLANDA",
+		"de": "IRLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -155,8 +155,8 @@
     "codice":"IS",
     "descrizione": {
 		"it": "ISLANDA",
-		"en": "ISLANDA"
-		},
+		"en": "ISLANDA",
+		"de": "ISLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -164,8 +164,8 @@
     "codice":"IT",
     "descrizione": {
 		"it": "ITALIA",
-		"en": "ITALIA"
-		},
+		"en": "ITALIA",
+		"de": "ITALIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -173,8 +173,8 @@
     "codice":"ITC",
     "descrizione": {
 		"it": "NORD-OVEST",
-		"en": "NORD-OVEST"
-		},
+		"en": "NORD-OVEST",
+		"de": "NORDWEST"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -182,8 +182,8 @@
     "codice":"ITC1",
     "descrizione": {
 		"it": "Piemonte",
-		"en": "Piemonte"
-		},
+		"en": "Piemonte",
+		"de": "Piemont"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -191,8 +191,8 @@
     "codice":"ITC11",
     "descrizione": {
 		"it": "Torino",
-		"en": "Torino"
-		},
+		"en": "Torino",
+		"de": "Turin"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -200,8 +200,8 @@
     "codice":"ITC12",
     "descrizione": {
 		"it": "Vercelli",
-		"en": "Vercelli"
-		},
+		"en": "Vercelli",
+		"de": "Vercelli"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -209,8 +209,8 @@
     "codice":"ITC13",
     "descrizione": {
 		"it": "Biella",
-		"en": "Biella"
-		},
+		"en": "Biella",
+		"de": "Biella"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -218,8 +218,8 @@
     "codice":"ITC14",
     "descrizione": {
 		"it": "Verbano-Cusio-Ossola",
-		"en": "Verbano-Cusio-Ossola"
-		},
+		"en": "Verbano-Cusio-Ossola",
+		"de": "Verbano-Cusio-Ossola"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -227,8 +227,8 @@
     "codice":"ITC15",
     "descrizione": {
 		"it": "Novara",
-		"en": "Novara"
-		},
+		"en": "Novara",
+		"de": "Novara"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -236,8 +236,8 @@
     "codice":"ITC16",
     "descrizione": {
 		"it": "Cuneo",
-		"en": "Cuneo"
-		},
+		"en": "Cuneo",
+		"de": "Cuneo"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -245,8 +245,8 @@
     "codice":"ITC17",
     "descrizione": {
 		"it": "Asti",
-		"en": "Asti"
-		},
+		"en": "Asti",
+		"de": "Asti"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -254,8 +254,8 @@
     "codice":"ITC18",
     "descrizione": {
 		"it": "Alessandria",
-		"en": "Alessandria"
-		},
+		"en": "Alessandria",
+		"de": "Alexandria"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -263,8 +263,8 @@
     "codice":"ITC2",
     "descrizione": {
 		"it": "Valle d'Aosta/Vallée d'Aoste",
-		"en": "Valle d'Aosta/Vallée d'Aoste"
-		},
+		"en": "Valle d'Aosta/Vallée d'Aoste",
+		"de": "Aostatal"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -272,8 +272,8 @@
     "codice":"ITC20",
     "descrizione": {
 		"it": "Valle d'Aosta/Vallée d'Aoste",
-		"en": "Valle d'Aosta/Vallée d'Aoste"
-		},
+		"en": "Valle d'Aosta/Vallée d'Aoste",
+		"de": "Aostatal"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -281,8 +281,8 @@
     "codice":"ITC3",
     "descrizione": {
 		"it": "Liguria",
-		"en": "Liguria"
-		},
+		"en": "Liguria",
+		"de": "Ligurien"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -290,8 +290,8 @@
     "codice":"ITC31",
     "descrizione": {
 		"it": "Imperia",
-		"en": "Imperia"
-		},
+		"en": "Imperia",
+		"de": "Imperia"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -299,8 +299,8 @@
     "codice":"ITC32",
     "descrizione": {
 		"it": "Savona",
-		"en": "Savona"
-		},
+		"en": "Savona",
+		"de": "Savona"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -308,8 +308,8 @@
     "codice":"ITC33",
     "descrizione": {
 		"it": "Genova",
-		"en": "Genova"
-		},
+		"en": "Genova",
+		"de": "Genua"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -317,8 +317,8 @@
     "codice":"ITC34",
     "descrizione": {
 		"it": "La Spezia",
-		"en": "La Spezia"
-		},
+		"en": "La Spezia",
+		"de": "La Spezia"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -326,8 +326,8 @@
     "codice":"ITC4",
     "descrizione": {
 		"it": "Lombardia",
-		"en": "Lombardia"
-		},
+		"en": "Lombardia",
+		"de": "Lombardei"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -335,8 +335,8 @@
     "codice":"ITC41",
     "descrizione": {
 		"it": "Varese",
-		"en": "Varese"
-		},
+		"en": "Varese",
+		"de": "Varese"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -344,8 +344,8 @@
     "codice":"ITC42",
     "descrizione": {
 		"it": "Como",
-		"en": "Como"
-		},
+		"en": "Como",
+		"de": "Como"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -353,8 +353,8 @@
     "codice":"ITC43",
     "descrizione": {
 		"it": "Lecco",
-		"en": "Lecco"
-		},
+		"en": "Lecco",
+		"de": "Lecco"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -362,8 +362,8 @@
     "codice":"ITC44",
     "descrizione": {
 		"it": "Sondrio",
-		"en": "Sondrio"
-		},
+		"en": "Sondrio",
+		"de": "Sondrio"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -371,8 +371,8 @@
     "codice":"ITC46",
     "descrizione": {
 		"it": "Bergamo",
-		"en": "Bergamo"
-		},
+		"en": "Bergamo",
+		"de": "Bergamo"	},
     "dataInizio":null,
     "dataFine":null
 },
@@ -380,8 +380,8 @@
     "codice":"ITC47",
     "descrizione": {
 		"it": "Brescia",
-		"en": "Brescia"
-		},
+		"en": "Brescia",
+		"de": "Brescia"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -389,8 +389,8 @@
     "codice":"ITC48",
     "descrizione": {
 		"it": "Pavia",
-		"en": "Pavia"
-		},
+		"en": "Pavia",
+		"de": "Pavia"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -398,8 +398,8 @@
     "codice":"ITC49",
     "descrizione": {
 		"it": "Lodi",
-		"en": "Lodi"
-		},
+		"en": "Lodi",
+		"de": "Lodi"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -407,8 +407,8 @@
     "codice":"ITC4A",
     "descrizione": {
 		"it": "Cremona",
-		"en": "Cremona"
-		},
+		"en": "Cremona",
+		"de": "Cremona"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -416,8 +416,8 @@
     "codice":"ITC4B",
     "descrizione": {
 		"it": "Mantova",
-		"en": "Mantova"
-		},
+		"en": "Mantova",
+		"de": "Mantova"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -426,7 +426,7 @@
     "descrizione": {
 		"it": "Milano",
 		"en": "Milano"
-		},
+		"de": "Mailand},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -434,8 +434,8 @@
     "codice":"ITC4D",
     "descrizione": {
 		"it": "Monza e della Brianza",
-		"en": "Monza e della Brianza"
-		},
+		"en": "Monza e della Brianza",
+		"de": "Monza e della Brianza"},
     "dataInizio":"2018-04-11T00:00:00Z",
     "dataFine":null
 },
@@ -443,8 +443,8 @@
     "codice":"ITF",
     "descrizione": {
 		"it": "SUD",
-		"en": "SUD"
-		},
+		"en": "SUD",
+		"de": "SÜD"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -452,8 +452,8 @@
     "codice":"ITF1",
     "descrizione": {
 		"it": "Abruzzo",
-		"en": "Abruzzo"
-		},
+		"en": "Abruzzo",
+		"de": "Abruzzen"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -461,8 +461,8 @@
     "codice":"ITF11",
     "descrizione": {
 		"it": "L'Aquila",
-		"en": "L'Aquila"
-		},
+		"en": "L'Aquila",
+		"de": "L'Aquila"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -470,8 +470,8 @@
     "codice":"ITF12",
     "descrizione": {
 		"it": "Teramo",
-		"en": "Teramo"
-		},
+		"en": "Teramo",
+		"de": "Teramo"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -479,8 +479,8 @@
     "codice":"ITF13",
     "descrizione": {
 		"it": "Pescara",
-		"en": "Pescara"
-		},
+		"en": "Pescara",
+		"de": "Pescara"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -488,8 +488,8 @@
     "codice":"ITF14",
     "descrizione": {
 		"it": "Chieti",
-		"en": "Chieti"
-		},
+		"en": "Chieti",
+		"de": "Chieti"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -497,8 +497,8 @@
     "codice":"ITF2",
     "descrizione": {
 		"it": "Molise",
-		"en": "Molise"
-		},
+		"en": "Molise",
+		"de": "Molise"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -506,8 +506,8 @@
     "codice":"ITF21",
     "descrizione": {
 		"it": "Isernia",
-		"en": "Isernia"
-		},
+		"en": "Isernia",
+		"de": "Isernia"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -515,8 +515,8 @@
     "codice":"ITF22",
     "descrizione": {
 		"it": "Campobasso",
-		"en": "Campobasso"
-		},
+		"en": "Campobasso",
+		"de": "Campobasso},
     "dataInizio":null,
     "dataFine":null
 },
@@ -524,8 +524,8 @@
     "codice":"ITF3",
     "descrizione": {
 		"it": "Campania",
-		"en": "Campania"
-		},
+		"en": "Campania",
+		"de": "Campania"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -533,8 +533,8 @@
     "codice":"ITF31",
     "descrizione": {
 		"it": "Caserta",
-		"en": "Caserta"
-		},
+		"en": "Caserta",
+		"de": "Caserta"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -542,8 +542,8 @@
     "codice":"ITF32",
     "descrizione": {
 		"it": "Benevento",
-		"en": "Benevento"
-		},
+		"en": "Benevento",
+		"de": "Benevento"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -551,8 +551,8 @@
     "codice":"ITF33",
     "descrizione": {
 		"it": "Napoli",
-		"en": "Napoli"
-		},
+		"en": "Napoli",
+		"de": "Neapel"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -560,8 +560,8 @@
     "codice":"ITF34",
     "descrizione": {
 		"it": "Avellino",
-		"en": "Avellino"
-		},
+		"en": "Avellino",
+		"de": "Avellino"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -569,8 +569,8 @@
     "codice":"ITF35",
     "descrizione": {
 		"it": "Salerno",
-		"en": "Salerno"
-		},
+		"en": "Salerno",
+		"de": "Salerno"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -578,8 +578,8 @@
     "codice":"ITF4",
     "descrizione": {
 		"it": "Puglia",
-		"en": "Puglia"
-		},
+		"en": "Puglia",
+		"de": "Apulien"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -587,8 +587,8 @@
     "codice":"ITF43",
     "descrizione": {
 		"it": "Taranto",
-		"en": "Taranto"
-		},
+		"en": "Taranto",
+		"de": "Taranto"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -596,8 +596,8 @@
     "codice":"ITF44",
     "descrizione": {
 		"it": "Brindisi",
-		"en": "Brindisi"
-		},
+		"en": "Brindisi",
+		"de": "Brindisi"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -605,8 +605,8 @@
     "codice":"ITF45",
     "descrizione": {
 		"it": "Lecce",
-		"en": "Lecce"
-		},
+		"en": "Lecce",
+		"de": "Lecce"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -614,8 +614,8 @@
     "codice":"ITF46",
     "descrizione": {
 		"it": "Foggia",
-		"en": "Foggia"
-		},
+		"en": "Foggia",
+		"de": "Foggia"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -623,8 +623,8 @@
     "codice":"ITF47",
     "descrizione": {
 		"it": "Bari",
-		"en": "Bari"
-		},
+		"en": "Bari",
+		"de": "Bari"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -632,8 +632,8 @@
     "codice":"ITF48",
     "descrizione": {
 		"it": "Barletta-Andria-Trani",
-		"en": "Barletta-Andria-Trani"
-		},
+		"en": "Barletta-Andria-Trani",
+		"de": "Barletta-Andria-Trani"},
     "dataInizio":"2018-04-11T00:00:00Z",
     "dataFine":null
 },
@@ -641,8 +641,8 @@
     "codice":"ITF5",
     "descrizione": {
 		"it": "Basilicata",
-		"en": "Basilicata"
-		},
+		"en": "Basilicata",
+		"de": "Basilicata"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -650,8 +650,8 @@
     "codice":"ITF51",
     "descrizione": {
 		"it": "Potenza",
-		"en": "Potenza"
-		},
+		"en": "Potenza",
+		"de": "Potenza"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -659,8 +659,8 @@
     "codice":"ITF52",
     "descrizione": {
 		"it": "Matera",
-		"en": "Matera"
-		},
+		"en": "Matera",
+		"de": "Matera"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -668,8 +668,8 @@
     "codice":"ITF6",
     "descrizione": {
 		"it": "Calabria",
-		"en": "Calabria"
-		},
+		"en": "Calabria",
+		"de": "Kalabrien"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -677,8 +677,8 @@
     "codice":"ITF61",
     "descrizione": {
 		"it": "Cosenza",
-		"en": "Cosenza"
-		},
+		"en": "Cosenza",
+		"de": "Cosenza"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -686,8 +686,8 @@
     "codice":"ITF62",
     "descrizione": {
 		"it": "Crotone",
-		"en": "Crotone"
-		},
+		"en": "Crotone",
+		"de": "Crotone"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -695,8 +695,8 @@
     "codice":"ITF63",
     "descrizione": {
 		"it": "Catanzaro",
-		"en": "Catanzaro"
-		},
+		"en": "Catanzaro",
+		"de": "Catanzaro"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -704,8 +704,8 @@
     "codice":"ITF64",
     "descrizione": {
 		"it": "Vibo Valentia",
-		"en": "Vibo Valentia"
-		},
+		"en": "Vibo Valentia",
+		"de": "Vibo Valentia"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -713,8 +713,8 @@
     "codice":"ITG",
     "descrizione": {
 		"it": "ISOLE",
-		"en": "ISOLE"
-		},
+		"en": "ISOLE",
+		"de": "INSELN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -723,7 +723,7 @@
     "descrizione": {
 		"it": "Sicilia",
 		"en": "Sicilia"
-		},
+		"de": "Sizilien"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -731,8 +731,8 @@
     "codice":"ITG11",
     "descrizione": {
 		"it": "Trapani",
-		"en": "Trapani"
-		},
+		"en": "Trapani",
+		"de": "Trapani"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -740,8 +740,8 @@
     "codice":"ITG12",
     "descrizione": {
 		"it": "Palermo",
-		"en": "Palermo"
-		},
+		"en": "Palermo",
+		"de": "Palermo"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -749,8 +749,8 @@
     "codice":"ITG13",
     "descrizione": {
 		"it": "Messina",
-		"en": "Messina"
-		},
+		"en": "Messina",
+		"de": "Messina"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -758,8 +758,8 @@
     "codice":"ITG14",
     "descrizione": {
 		"it": "Agrigento",
-		"en": "Agrigento"
-		},
+		"en": "Agrigento",
+		"de": "Agrigento"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -767,8 +767,8 @@
     "codice":"ITG15",
     "descrizione": {
 		"it": "Caltanissetta",
-		"en": "Caltanissetta"
-		},
+		"en": "Caltanissetta",
+		"de": "Caltanissetta"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -776,8 +776,8 @@
     "codice":"ITG16",
     "descrizione": {
 		"it": "Enna",
-		"en": "Enna"
-		},
+		"en": "Enna",
+		"de": "Enna"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -785,8 +785,8 @@
     "codice":"ITG17",
     "descrizione": {
 		"it": "Catania",
-		"en": "Catania"
-		},
+		"en": "Catania",
+		"de": "Catania"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -794,8 +794,8 @@
     "codice":"ITG18",
     "descrizione": {
 		"it": "Ragusa",
-		"en": "Ragusa"
-		},
+		"en": "Ragusa",
+		"de": "Ragusa"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -803,8 +803,8 @@
     "codice":"ITG19",
     "descrizione": {
 		"it": "Siracusa",
-		"en": "Siracusa"
-		},
+		"en": "Siracusa",
+		"de": "Siracusa"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -812,8 +812,8 @@
     "codice":"ITG2",
     "descrizione": {
 		"it": "Sardegna",
-		"en": "Sardegna"
-		},
+		"en": "Sardegna",
+		"de": "Sardinien"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -821,8 +821,8 @@
     "codice":"ITG2D",
     "descrizione": {
 		"it": "Sassari",
-		"en": "Sassari"
-		},
+		"en": "Sassari",
+		"de": "Sassari"},
     "dataInizio":"2021-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -830,8 +830,8 @@
     "codice":"ITG2E",
     "descrizione": {
 		"it": "Nuoro",
-		"en": "Nuoro"
-		},
+		"en": "Nuoro",
+		"de": "Nuoro"},
     "dataInizio":"2021-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -839,8 +839,8 @@
     "codice":"ITG2F",
     "descrizione": {
 		"it": "Cagliari",
-		"en": "Cagliari"
-		},
+		"en": "Cagliari",
+		"de": "Cagliari"},
     "dataInizio":"2021-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -848,8 +848,8 @@
     "codice":"ITG2G",
     "descrizione": {
 		"it": "Oristano",
-		"en": "Oristano"
-		},
+		"en": "Oristano",
+		"de": "Oristano"},
     "dataInizio":"2021-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -857,8 +857,8 @@
     "codice":"ITG2H",
     "descrizione": {
 		"it": "Sud Sardegna",
-		"en": "Sud Sardegna"
-		},
+		"en": "Sud Sardegna",
+		"de": "Süd Sardinien"},
     "dataInizio":"2021-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -866,8 +866,8 @@
     "codice":"ITH",
     "descrizione": {
 		"it": "NORD-EST",
-		"en": "NORD-EST"
-		},
+		"en": "NORD-EST",
+		"de": "NORD-OSTEN"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -875,8 +875,8 @@
     "codice":"ITH10",
     "descrizione": {
 		"it": "Bolzano/Bozen",
-		"en": "Bolzano/Bozen"
-		},
+		"en": "Bolzano/Bozen",
+		"de": "Bolzano/Bozen"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -884,8 +884,8 @@
     "codice":"ITH20",
     "descrizione": {
 		"it": "Trento",
-		"en": "Trento"
-		},
+		"en": "Trento",
+		"de": "Trient"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -893,8 +893,8 @@
     "codice":"ITH3",
     "descrizione": {
 		"it": "Veneto",
-		"en": "Veneto"
-		},
+		"en": "Veneto",
+		"de": "Venetien"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -902,8 +902,8 @@
     "codice":"ITH31",
     "descrizione": {
 		"it": "Verona",
-		"en": "Verona"
-		},
+		"en": "Verona",
+		"de": "Verona"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -911,8 +911,8 @@
     "codice":"ITH32",
     "descrizione": {
 		"it": "Vicenza",
-		"en": "Vicenza"
-		},
+		"en": "Vicenza",
+		"de": "Vicenza"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -920,8 +920,8 @@
     "codice":"ITH33",
     "descrizione": {
 		"it": "Belluno",
-		"en": "Belluno"
-		},
+		"en": "Belluno",
+		"de": "Belluno},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -929,8 +929,8 @@
     "codice":"ITH34",
     "descrizione": {
 		"it": "Treviso",
-		"en": "Treviso"
-		},
+		"en": "Treviso",
+		"de": "Treviso"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -938,8 +938,8 @@
     "codice":"ITH35",
     "descrizione": {
 		"it": "Venezia",
-		"en": "Venezia"
-		},
+		"en": "Venezia",
+		"de": "Venedig"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -947,8 +947,8 @@
     "codice":"ITH36",
     "descrizione": {
 		"it": "Padova",
-		"en": "Padova"
-		},
+		"en": "Padova",
+		"de": "Padua"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -956,8 +956,8 @@
     "codice":"ITH37",
     "descrizione": {
 		"it": "Rovigo",
-		"en": "Rovigo"
-		},
+		"en": "Rovigo",
+		"de": "Rovigo"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -965,8 +965,8 @@
     "codice":"ITH4",
     "descrizione": {
 		"it": "Friuli-Venezia Giulia",
-		"en": "Friuli-Venezia Giulia"
-		},
+		"en": "Friuli-Venezia Giulia",
+		"de": "Friaul-Julisch Venetien"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -974,8 +974,8 @@
     "codice":"ITH41",
     "descrizione": {
 		"it": "Pordenone",
-		"en": "Pordenone"
-		},
+		"en": "Pordenone",
+		"de": "Pordenone"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -983,8 +983,8 @@
     "codice":"ITH42",
     "descrizione": {
 		"it": "Udine",
-		"en": "Udine"
-		},
+		"en": "Udine",
+		"de": "Udine"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -992,8 +992,8 @@
     "codice":"ITH43",
     "descrizione": {
 		"it": "Gorizia",
-		"en": "Gorizia"
-		},
+		"en": "Gorizia",
+		"de": "Gorizia"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1001,8 +1001,8 @@
     "codice":"ITH44",
     "descrizione": {
 		"it": "Trieste",
-		"en": "Trieste"
-		},
+		"en": "Trieste",
+		"de": "Triest"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1010,8 +1010,8 @@
     "codice":"ITH5",
     "descrizione": {
 		"it": "Emilia-Romagna",
-		"en": "Emilia-Romagna"
-		},
+		"en": "Emilia-Romagna",
+		"de": "Emilia-Romagna"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1019,8 +1019,8 @@
     "codice":"ITH51",
     "descrizione": {
 		"it": "Piacenza",
-		"en": "Piacenza"
-		},
+		"en": "Piacenza",
+		"de": "Piacenza"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1028,8 +1028,8 @@
     "codice":"ITH52",
     "descrizione": {
 		"it": "Parma",
-		"en": "Parma"
-		},
+		"en": "Parma",
+		"de": "Parma"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1037,8 +1037,8 @@
     "codice":"ITH53",
     "descrizione": {
 		"it": "Reggio nell'Emilia",
-		"en": "Reggio nell'Emilia"
-		},
+		"en": "Reggio nell'Emilia",
+		"de": "Reggio nell'Emilia"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1046,8 +1046,8 @@
     "codice":"ITH54",
     "descrizione": {
 		"it": "Modena",
-		"en": "Modena"
-		},
+		"en": "Modena",
+		"de": "Modena"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1055,8 +1055,8 @@
     "codice":"ITH55",
     "descrizione": {
 		"it": "Bologna",
-		"en": "Bologna"
-		},
+		"en": "Bologna",
+		"de": "Bologna"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1064,8 +1064,8 @@
     "codice":"ITH56",
     "descrizione": {
 		"it": "Ferrara",
-		"en": "Ferrara"
-		},
+		"en": "Ferrara",
+		"de": "Ferrara"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1073,8 +1073,8 @@
     "codice":"ITH57",
     "descrizione": {
 		"it": "Ravenna",
-		"en": "Ravenna"
-		},
+		"en": "Ravenna",
+		"de": "Ravenna"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1082,8 +1082,8 @@
     "codice":"ITH58",
     "descrizione": {
 		"it": "Forlì-Cesena",
-		"en": "Forlì-Cesena"
-		},
+		"en": "Forlì-Cesena",
+		"de": "Forlì-Cesena"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1091,8 +1091,8 @@
     "codice":"ITH59",
     "descrizione": {
 		"it": "Rimini",
-		"en": "Rimini"
-		},
+		"en": "Rimini",
+		"de": "Rimini"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1100,8 +1100,8 @@
     "codice":"ITI",
     "descrizione": {
 		"it": "Centro",
-		"en": "Centro"
-		},
+		"en": "Centro",
+		"de": "Mitte"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1109,8 +1109,8 @@
     "codice":"ITI1",
     "descrizione": {
 		"it": "Toscana",
-		"en": "Toscana"
-		},
+		"en": "Toscana",
+		"de": "Toskana"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1118,8 +1118,8 @@
     "codice":"ITI11",
     "descrizione": {
 		"it": "Massa-Carrara",
-		"en": "Massa-Carrara"
-		},
+		"en": "Massa-Carrara",
+		"de": "Massa-Carrara"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1127,8 +1127,8 @@
     "codice":"ITI12",
     "descrizione": {
 		"it": "Lucca",
-		"en": "Lucca"
-		},
+		"en": "Lucca",
+		"de": "Lucca"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1136,8 +1136,8 @@
     "codice":"ITI13",
     "descrizione": {
 		"it": "Pistoia",
-		"en": "Pistoia"
-		},
+		"en": "Pistoia",
+		"de": "Pistoia"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1145,8 +1145,8 @@
     "codice":"ITI14",
     "descrizione": {
 		"it": "Firenze",
-		"en": "Firenze"
-		},
+		"en": "Firenze",
+		"de": "Florenz"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1154,8 +1154,8 @@
     "codice":"ITI15",
     "descrizione": {
 		"it": "Prato",
-		"en": "Prato"
-		},
+		"en": "Prato",
+		"de": "Prato"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1163,8 +1163,8 @@
     "codice":"ITI16",
     "descrizione": {
 		"it": "Livorno",
-		"en": "Livorno"
-		},
+		"en": "Livorno",
+		"de": "Livorno"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1172,8 +1172,8 @@
     "codice":"ITI17",
     "descrizione": {
 		"it": "Pisa",
-		"en": "Pisa"
-		},
+		"en": "Pisa",
+		"de": "Pisa"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1181,8 +1181,8 @@
     "codice":"ITI18",
     "descrizione": {
 		"it": "Arezzo",
-		"en": "Arezzo"
-		},
+		"en": "Arezzo",
+		"de": "Arezzo"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1190,8 +1190,8 @@
     "codice":"ITI19",
     "descrizione": {
 		"it": "Siena",
-		"en": "Siena"
-		},
+		"en": "Siena",
+		"de": "Siena"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1199,8 +1199,8 @@
     "codice":"ITI1A",
     "descrizione": {
 		"it": "Grosseto",
-		"en": "Grosseto"
-		},
+		"en": "Grosseto",
+		"de": "Grosseto"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1208,8 +1208,8 @@
     "codice":"ITI2",
     "descrizione": {
 		"it": "Umbria",
-		"en": "Umbria"
-		},
+		"en": "Umbria",
+		"de": "Umbrien"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1217,8 +1217,8 @@
     "codice":"ITI21",
     "descrizione": {
 		"it": "Perugia",
-		"en": "Perugia"
-		},
+		"en": "Perugia",
+		"de": "Perugia"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1226,8 +1226,8 @@
     "codice":"ITI22",
     "descrizione": {
 		"it": "Terni",
-		"en": "Terni"
-		},
+		"en": "Terni",
+		"de": "Terni"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1235,8 +1235,8 @@
     "codice":"ITI3",
     "descrizione": {
 		"it": "Marche",
-		"en": "Marche"
-		},
+		"en": "Marche",
+		"de": "Marken"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1244,8 +1244,8 @@
     "codice":"ITI31",
     "descrizione": {
 		"it": "Pesaro e Urbino",
-		"en": "Pesaro e Urbino"
-		},
+		"en": "Pesaro e Urbino",
+		"de: "Pesaro und Urbino"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1253,8 +1253,8 @@
     "codice":"ITI32",
     "descrizione": {
 		"it": "Ancona",
-		"en": "Ancona"
-		},
+		"en": "Ancona",
+		"de": "Ancona"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1262,8 +1262,8 @@
     "codice":"ITI33",
     "descrizione": {
 		"it": "Macerata",
-		"en": "Macerata"
-		},
+		"en": "Macerata",
+		"de": "Macerata"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1271,8 +1271,8 @@
     "codice":"ITI34",
     "descrizione": {
 		"it": "Ascoli Piceno",
-		"en": "Ascoli Piceno"
-		},
+		"en": "Ascoli Piceno",
+		"de": "Ascoli Piceno"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1280,8 +1280,8 @@
     "codice":"ITI35",
     "descrizione": {
 		"it": "Fermo",
-		"en": "Fermo"
-		},
+		"en": "Fermo",
+		"de": "Fermo"},
     "dataInizio":"2018-04-11T00:00:00Z",
     "dataFine":null
 },
@@ -1289,8 +1289,8 @@
     "codice":"ITI4",
     "descrizione": {
 		"it": "Lazio",
-		"en": "Lazio"
-		},
+		"en": "Lazio",
+		"de": "Lazio"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1298,8 +1298,8 @@
     "codice":"ITI41",
     "descrizione": {
 		"it": "Viterbo",
-		"en": "Viterbo"
-		},
+		"en": "Viterbo",
+		"de": "Viterbo"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1307,8 +1307,8 @@
     "codice":"ITI42",
     "descrizione": {
 		"it": "Rieti",
-		"en": "Rieti"
-		},
+		"en": "Rieti",
+		"de": "Rieti"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1316,8 +1316,8 @@
     "codice":"ITI43",
     "descrizione": {
 		"it": "Roma",
-		"en": "Roma"
-		},
+		"en": "Roma",
+		"de": "Rom"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1325,8 +1325,8 @@
     "codice":"ITI44",
     "descrizione": {
 		"it": "Latina",
-		"en": "Latina"
-		},
+		"en": "Latina",
+		"de": "Latina"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1334,8 +1334,8 @@
     "codice":"ITI45",
     "descrizione": {
 		"it": "Frosinone",
-		"en": "Frosinone"
-		},
+		"en": "Frosinone",
+		"de": "Frosinone"},
     "dataInizio":"2017-07-05T00:00:00Z",
     "dataFine":null
 },
@@ -1343,8 +1343,8 @@
     "codice":"ITZ",
     "descrizione": {
 		"it": "EXTRA-REGIO NUTS 1",
-		"en": "EXTRA-REGIO NUTS 1"
-		},
+		"en": "EXTRA-REGIO NUTS 1",
+		"de": "EXTRA-REGIO NUTS 1"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1352,8 +1352,8 @@
     "codice":"ITZZ",
     "descrizione": {
 		"it": "Extra-Regio NUTS 2",
-		"en": "Extra-Regio NUTS 2"
-		},
+		"en": "Extra-Regio NUTS 2",
+		"de": "Extra-Regio NUTS 2"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1361,8 +1361,8 @@
     "codice":"ITZZZ",
     "descrizione": {
 		"it": "Extra-Regio NUTS 3",
-		"en": "Extra-Regio NUTS 3"
-		},
+		"en": "Extra-Regio NUTS 3",
+		"de": "Extra-Regio NUTS 3"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1370,8 +1370,8 @@
     "codice":"LI",
     "descrizione": {
 		"it": "LIECHTENSTEIN",
-		"en": "LIECHTENSTEIN"
-		},
+		"en": "LIECHTENSTEIN",
+		"de": "LIECHTENSTEIN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1379,8 +1379,8 @@
     "codice":"LT",
     "descrizione": {
 		"it": "LITUANIA",
-		"en": "LITUANIA"
-		},
+		"en": "LITUANIA",
+		"de": "LITUANIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1388,8 +1388,8 @@
     "codice":"LU",
     "descrizione": {
 		"it": "LUSSEMBURGO",
-		"en": "LUSSEMBURGO"
-		},
+		"en": "LUSSEMBURGO",
+		"DE": "LUxEMBURG"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1397,8 +1397,8 @@
     "codice":"LV",
     "descrizione": {
 		"it": "LETTONIA",
-		"en": "LETTONIA"
-		},
+		"en": "LETTONIA",
+		"de": "LETTLAND"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1406,8 +1406,8 @@
     "codice":"MK",
     "descrizione": {
 		"it": "MACEDONIA DEL NORD",
-		"en": "MACEDONIA DEL NORD"
-		},
+		"en": "MACEDONIA DEL NORD",
+		"de": "NORDMAZEDONIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1415,8 +1415,8 @@
     "codice":"MT",
     "descrizione": {
 		"it": "MALTA",
-		"en": "MALTA"
-		},
+		"en": "MALTA",
+		"de": "MALTA"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1424,8 +1424,8 @@
     "codice":"NL",
     "descrizione": {
 		"it": "PAESI BASSI",
-		"en": "PAESI BASSI"
-		},
+		"en": "PAESI BASSI",
+		"de": "NIEDERLANDE"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1433,8 +1433,8 @@
     "codice":"NO",
     "descrizione": {
 		"it": "NORVEGIA",
-		"en": "NORVEGIA"
-		},
+		"en": "NORVEGIA",
+		"de": "NORVEGEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1442,8 +1442,8 @@
     "codice":"PL",
     "descrizione": {
 		"it": "POLONIA",
-		"en": "POLONIA"
-		},
+		"en": "POLONIA",
+		"de": "POLEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1451,8 +1451,8 @@
     "codice":"PT",
     "descrizione": {
 		"it": "PORTOGALLO",
-		"en": "PORTOGALLO"
-		},
+		"en": "PORTOGALLO",
+		"de": "PORTUGAL"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1460,8 +1460,8 @@
     "codice":"RO",
     "descrizione": {
 		"it": "ROMANIA",
-		"en": "ROMANIA"
-		},
+		"en": "ROMANIA",
+		"DE": "RUMÄNIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1469,8 +1469,8 @@
     "codice":"SE",
     "descrizione": {
 		"it": "SVEZIA",
-		"en": "SVEZIA"
-		},
+		"en": "SVEZIA",
+		"DE": "SCHWEDEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1478,8 +1478,8 @@
     "codice":"SI",
     "descrizione": {
 		"it": "SLOVENIA",
-		"en": "SLOVENIA"
-		},
+		"en": "SLOVENIA",
+		"de": "SLOWENIEN"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1487,8 +1487,8 @@
     "codice":"SK",
     "descrizione": {
 		"it": "SLOVACCHIA",
-		"en": "SLOVACCHIA"
-		},
+		"en": "SLOVACCHIA",
+		"de": "SLOWAKEI"},
     "dataInizio":null,
     "dataFine":null
 },
@@ -1496,8 +1496,8 @@
     "codice":"TR",
     "descrizione": {
 		"it": "TURCHIA",
-		"en": "TURCHIA"
-		},
+		"en": "TURCHIA",
+		"de": "TÜRKEI"},
     "dataInizio":null,
     "dataFine":null
 }]
